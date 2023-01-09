@@ -1,0 +1,14 @@
+name: Final-weih2
+title: Final-weih2
+username:
+account: weih2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7893889
+bundleId: 6637405
+url: https://weih2.shinyapps.io/Final-weih2/
+when: 1671046909.14981
+lastSyncTime: 1671046909.14982
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|covid.csv|Covid.R|Pittsburgh_budget_2022.csv|test.R
